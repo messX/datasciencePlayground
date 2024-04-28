@@ -1,0 +1,61 @@
+Month,Category,Amount
+January,Housing,15000
+January,Transportation,3500
+January,Food & Groceries,8000
+January,Utilities,2500
+January,Entertainment,2000
+February,Housing,15500
+February,Transportation,3600
+February,Food & Groceries,8200
+February,Utilities,2550
+February,Entertainment,2100
+March,Housing,16000
+March,Transportation,3700
+March,Food & Groceries,8400
+March,Utilities,2600
+March,Entertainment,2200
+April,Housing,16500
+April,Transportation,3800
+April,Food & Groceries,8600
+April,Utilities,2650
+April,Entertainment,2300
+May,Housing,17000
+May,Transportation,3900
+May,Food & Groceries,8800
+May,Utilities,2700
+May,Entertainment,2400
+June,Housing,17500
+June,Transportation,4000
+June,Food & Groceries,9000
+June,Utilities,2750
+June,Entertainment,2500
+July,Housing,18000
+July,Transportation,4100
+July,Food & Groceries,9200
+July,Utilities,2800
+July,Entertainment,2600
+August,Housing,18500
+August,Transportation,4200
+August,Food & Groceries,9400
+August,Utilities,2850
+August,Entertainment,2700
+September,Housing,19000
+September,Transportation,4300
+September,Food & Groceries,9600
+September,Utilities,2900
+September,Entertainment,2800
+October,Housing,19500
+October,Transportation,4400
+October,Food & Groceries,9800
+October,Utilities,2950
+October,Entertainment,2900
+November,Housing,20000
+November,Transportation,4500
+November,Food & Groceries,10000
+November,Utilities,3000
+November,Entertainment,3000
+December,Housing,20500
+December,Transportation,4600
+December,Food & Groceries,10200
+December,Utilities,3050
+December,Entertainment,3100
